@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![snake.svg](https://raw.githubusercontent.com/kkrepos/kkrepos/refs/heads/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **kkrepos/kkrepos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
