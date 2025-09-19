@@ -5,6 +5,15 @@ on:
   schedule:
     - cron: '* * * * *'
 
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+
+
 # 2. 定义作业
 jobs:
   run-scheduled-task:
